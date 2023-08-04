@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Kelvin Yu, a Software Engineer at McMaster University!
-- 👀 I’m interested in Software Development and Web Design
+- 👀 I’m interested in Software Development and UI/UX Design
 - 🌱 I’m currently working on improving my LeetCode abilities :^)
 - 📫 How to reach me https://www.linkedin.com/in/kelvin-u/
