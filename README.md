@@ -6,7 +6,7 @@ i am a swe at mcmaster u
 
 
 ---
-<p align="center">
+<p >
   <div style="display: inline-block; height: 300px;">
     <img src="https://github-readme-stats.vercel.app/api?username=kelvin-u&show_icons=true&theme=dark#gh-dark-mode-only" width="400px">
   </div>
