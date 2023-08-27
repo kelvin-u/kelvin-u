@@ -15,4 +15,7 @@ I am a Software Engineering Student @ McMaster University
 
 # 💻 Languages and Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=react,python,java,js,html,css,tensorflow,figma,aws,azure)](https://skillicons.dev)
+<p align="center">
+  [![My Skills](https://skillicons.dev/icons?i=react,python,java,js,html,css,tensorflow,figma,aws,azure)](https://skillicons.dev)
+</p>
+
