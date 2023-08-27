@@ -13,8 +13,6 @@ I am a Software Engineering Student @ McMaster University
 
 ---
 
-# 💻 Languages and Tools 
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,python,java,js,html,css,tensorflow,figma,aws,azure" alt="My Skills">
