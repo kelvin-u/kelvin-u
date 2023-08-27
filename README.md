@@ -6,11 +6,11 @@ i am a swe at mcmaster u
 
 
 ---
-<p >
-  <div style="display: inline-block; height: 300px;">
+<p>
+  <div style=" height: 300px;">
     <img src="https://github-readme-stats.vercel.app/api?username=kelvin-u&show_icons=true&theme=dark#gh-dark-mode-only" width="400px">
   </div>
-  <div style="display: inline-block; height: 300px;">
+  <div style=" height: 300px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvin-u&theme=dark&card_width=400" width="400px">
   </div>
 </p>
