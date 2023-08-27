@@ -1,8 +1,8 @@
 # hi i am kelvin yu 👋
 i am a swe at mcmaster u 
 - 🌐 visit my personal [portfolio](https://kelvinu.ca/)
-- 👋 Check out my personal [blog](https://pr2tik1.github.io/blog/) for articles and insights.
-- ✍️ Follow me on [Medium](https://pr2tik1.medium.com/) for more written content.
+- 👋 email me
+- ✍️ connect with me
 
 
 ---
