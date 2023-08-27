@@ -15,7 +15,7 @@ Software Engineering Student @ McMaster University
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,php,mysql,react,figma,js,html,css,git" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=python,java,php,mysql,react,figma,js,css,html,git" alt="My Skills">
   </a>
 </p>
 
