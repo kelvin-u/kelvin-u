@@ -8,8 +8,8 @@ i am a swe at mcmaster u
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelvin-u&show_icons=true&theme=dark#gh-dark-mode-only" style="width:400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvin-u&theme=dark&card_width=400"  style="width:400">
+  <img src="https://github-readme-stats.vercel.app/api?username=kelvin-u&show_icons=true&theme=dark#gh-dark-mode-only" width="400px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvin-u&theme=dark&card_width=400" width="400px">
 </p>
 
 ---
