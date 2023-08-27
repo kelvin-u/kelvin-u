@@ -1,8 +1,8 @@
 # hi i am kelvin yu 👋
-I am a Software Engineering Student @ McMaster University 
-- 🌐 Visit my personal [portfolio](https://kelvinu.ca/)
-- 👋 Email [me](mailto:yukaiwenn@gmail.com)
-- ✍️ connect with me on [LinkedIn](https://www.linkedin.com/in/kelvin-u/)
+Software Engineering Student @ McMaster University 
+- 🌐 Visit my personal [website](https://kelvinu.ca/)
+- ✍️ Connect with me on [LinkedIn](https://www.linkedin.com/in/kelvin-u/)
+- ✉️ Email [me](mailto:yukaiwenn@gmail.com)
 
 
 ---
