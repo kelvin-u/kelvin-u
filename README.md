@@ -1,8 +1,8 @@
 # hi i am kelvin yu 👋
-i am a swe at mcmaster u 
-- 🌐 visit my personal [portfolio](https://kelvinu.ca/)
-- 👋 email me
-- ✍️ connect with me
+I am a Software Engineering Student @ McMaster University 
+- 🌐 Visit my personal [portfolio](https://kelvinu.ca/)
+- 👋 Email [me](mailto:yukaiwenn@gmail.com)
+- ✍️ connect with me on [LinkedIn](https://www.linkedin.com/in/kelvin-u/)
 
 
 ---
@@ -13,3 +13,6 @@ i am a swe at mcmaster u
 
 ---
 
+# 💻 Languages and Tools 
+
+[![My Skills](https://skillicons.dev/icons?i=react,python,java,js,html,css,tensorflow,figma,aws,azure)](https://skillicons.dev)
