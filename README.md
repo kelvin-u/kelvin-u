@@ -18,3 +18,5 @@ Software Engineering Student @ McMaster University
   </a>
 </p>
 
+![GitHub Snake Light](https://raw.githubusercontent.com/kelvin-u/kelvin-u/output/snake.svg)
+
