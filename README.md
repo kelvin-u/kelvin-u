@@ -2,7 +2,7 @@
 Software Engineering Student @ McMaster University 
 - 🌐 Visit my personal [website](https://kelvinu.ca/)
 - ✍️ Connect with me on [linkedIn](https://www.linkedin.com/in/kelvin-u/)
-- ✉️ Reach out to me with [email](mailto:yukaiwenn@gmail.com)
+- ✉️ Reach out to me with [email](mailto:kelvinyu92@gmail.com)
 
 
 <hr>
